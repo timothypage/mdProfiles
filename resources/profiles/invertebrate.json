@@ -1,9 +1,9 @@
 {
-  "identifier": "core",
+  "identifier": "invertebrate",
   "namespace": "org.adiwg.profile",
-  "alternateId": ["core"],
-  "title": "Core",
-  "description": "NGGDPP ReSciColl Core Metadata Profile",
+  "alternateId": ["invertebrate"],
+  "title": "Invertebrate",
+  "description": "NGGDPP ReSciColl Invertebrate Metadata Profile",
   "version": "VERSION",
   "components": {
     "record": {},

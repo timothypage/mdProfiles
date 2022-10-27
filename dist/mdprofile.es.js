@@ -1175,11 +1175,11 @@ var core = {
 };
 
 var geologic = {
-  identifier: 'core',
+  identifier: 'geologic',
   namespace: 'org.adiwg.profile',
-  alternateId: ['core'],
-  title: 'Core',
-  description: 'NGGDPP ReSciColl Core Metadata Profile',
+  alternateId: ['geologic'],
+  title: 'Geologic',
+  description: 'NGGDPP ReSciColl Geologic Metadata Profile',
   version: '0.2.4',
   components: {
     record: {},
@@ -1282,11 +1282,11 @@ var geologic = {
 };
 
 var image = {
-  identifier: 'core',
+  identifier: 'image',
   namespace: 'org.adiwg.profile',
-  alternateId: ['core'],
-  title: 'Core',
-  description: 'NGGDPP ReSciColl Core Metadata Profile',
+  alternateId: ['image'],
+  title: 'Image',
+  description: 'NGGDPP ReSciColl Image Metadata Profile',
   version: '0.2.4',
   components: {
     record: {},
@@ -1389,11 +1389,11 @@ var image = {
 };
 
 var invertebrate = {
-  identifier: 'core',
+  identifier: 'invertebrate',
   namespace: 'org.adiwg.profile',
-  alternateId: ['core'],
-  title: 'Core',
-  description: 'NGGDPP ReSciColl Core Metadata Profile',
+  alternateId: ['invertebrate'],
+  title: 'Invertebrate',
+  description: 'NGGDPP ReSciColl Invertebrate Metadata Profile',
   version: '0.2.4',
   components: {
     record: {},
@@ -1496,11 +1496,11 @@ var invertebrate = {
 };
 
 var vertebrate = {
-  identifier: 'core',
+  identifier: 'vertebrate',
   namespace: 'org.adiwg.profile',
-  alternateId: ['core'],
-  title: 'Core',
-  description: 'NGGDPP ReSciColl Core Metadata Profile',
+  alternateId: ['vertebrate'],
+  title: 'Vertebrate',
+  description: 'NGGDPP ReSciColl Vertebrate Metadata Profile',
   version: '0.2.4',
   components: {
     record: {},

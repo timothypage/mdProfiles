@@ -1,9 +1,9 @@
 {
-  "identifier": "core",
+  "identifier": "vertebrate",
   "namespace": "org.adiwg.profile",
-  "alternateId": ["core"],
-  "title": "Core",
-  "description": "NGGDPP ReSciColl Core Metadata Profile",
+  "alternateId": ["vertebrate"],
+  "title": "Vertebrate",
+  "description": "NGGDPP ReSciColl Vertebrate Metadata Profile",
   "version": "VERSION",
   "components": {
     "record": {},
